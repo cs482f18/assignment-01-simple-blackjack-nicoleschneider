@@ -4,7 +4,7 @@ package com.example.nicole.simpleblackjackgame;
  * Class representing game Dealer
  * Subclass of abstract Player class
  * @author Nicole Schneider
- * @version 1
+ * @version 1 // add date after version number
  */
 public class Dealer extends Player {
 
