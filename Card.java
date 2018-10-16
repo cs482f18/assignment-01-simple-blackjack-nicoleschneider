@@ -7,12 +7,16 @@ enum Suit{
     H, D, C, S
 }
 
-/**Class representing one card
+/**
+ * Class representing one card
  * @author Nicole Schneider
- * @version 1
+ * @version 1 10/05/2018  // don't forget to add date
  */
 public class Card {
+    
+    /** Write javadoc comments to describe your instance variables such as value*/
     private int value;
+    /** Write javadoc comments to describe your instance variables such as name */
     private String name;
     private Suit suit;
 
