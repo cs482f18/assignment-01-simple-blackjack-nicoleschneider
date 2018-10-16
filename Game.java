@@ -3,10 +3,11 @@ package com.example.nicole.simpleblackjackgame;
 /**
  * Class to represent a game of blackjack
  * @author Nicole Schneider
- * @version 1
+ * @version 1 Date
  */
 public class Game {
 
+    /** javadoc description of instanc evariable */
     private User user;
     private Dealer dealer;
     private Deck deck;
